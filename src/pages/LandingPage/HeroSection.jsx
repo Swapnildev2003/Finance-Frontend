@@ -4,7 +4,7 @@ import hero from '../../assets/hero.png';
 
 const HeroSection = () => {
   return (
-    <section className="bg-blue-600 text-white w-full h-screen flex flex-col md:flex-row justify-between items-center pt-20 md:pt-0 px-8 md:px-16">
+    <section className="bg-red-600 text-white w-full h-screen flex flex-col md:flex-row justify-between items-center pt-20 md:pt-0 px-8 md:px-16">
       {/* Left Side - Text */}
       <div className="flex flex-col justify-center items-start space-y-4 md:w-1/2">
         <h1 className="text-4xl md:text-6xl font-bold">
