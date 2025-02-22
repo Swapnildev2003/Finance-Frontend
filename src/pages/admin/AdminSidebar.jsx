@@ -26,7 +26,7 @@ const Sidebar = ({ userRole }) => {
         } transition-all duration-300 ease-in-out z-50`}
       >
         <div className="flex items-center justify-center h-16 bg-gray-900 shadow-md">
-          <h1 className="text-2xl font-bold">AppName</h1>
+          <h1 className="text-2xl font-bold">Laxmi Funds</h1>
         </div>
         <nav className="flex-1 mt-6">
           <ul>
