@@ -6,7 +6,7 @@ const Sidebar = ({ userRole, unreadCount }) => {
   return (
     <div className="bg-gray-800 text-white w-64 min-h-screen flex flex-col">
       <div className="flex items-center justify-center h-16 bg-gray-900 shadow-md">
-        <h1 className="text-2xl font-bold">AppName</h1>
+        <h1 className="text-2xl font-bold">Laxmi Funds</h1>
       </div>
       <nav className="flex-1 mt-6">
         <ul>

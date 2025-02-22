@@ -13,7 +13,7 @@ const Sidebar = ({ userRole }) => {
     <div>
       {/* Mobile hamburger menu button */}
       <div className="md:hidden bg-gray-900 p-4 text-white flex justify-between items-center">
-        <h1 className="text-xl font-bold">AppName</h1>
+        <h1 className="text-xl font-bold">Laxmi Funds</h1>
         <button onClick={toggleSidebar}>
           {isOpen ? <FaTimes className="text-2xl" /> : <FaBars className="text-2xl" />}
         </button>
